@@ -38,9 +38,9 @@ print(value)
 ~~~
 ii)	#Insertion Sort
 ~~~
-Program to sort the elements in the list using the Insertion Sort algorithm.
-Developed by: S Adithya Chowdary
-RegisterNumber: 21001700
+#Program to sort the elements in the list using the Insertion Sort algorithm.
+#Developed by: S Adithya Chowdary
+#RegisterNumber: 21001700
 
 def insertion_sort(nums):
     for i in range(1,len(nums)):
